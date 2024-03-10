@@ -1,0 +1,6 @@
+id,name,numberofbedrooms,numberofbaths,deliveredin,finished,apartmentsize,price
+1,Apartment - Zed East,2,2,2025,t,135,7200000
+2,Apartment - Bosco New Capital,2,3,2024,f,126,8500000
+3,Apartment - Salt,2,2,2027,t,95,7100000
+4,Apartment - Bloomfields,1,1,2029,f,80,700000
+10,Monte Galala,2,2,2027,t,120,8700000
